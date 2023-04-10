@@ -1,4 +1,4 @@
 # Sparcs_React
 Sparcs React Practice
 
-npm start in a new folder containing the files
+npm start in a new folder called "state" containing the files
