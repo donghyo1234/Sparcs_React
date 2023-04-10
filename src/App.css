@@ -1,0 +1,37 @@
+*{
+  font-family: sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+h1 {
+  text-align: left;
+  border-bottom: solid;
+  padding: 10px;
+}
+form {
+  border-bottom: solid;
+}
+h3 {
+  text-align: left;
+}
+th {
+  padding: 10px;
+  border-right: solid;
+  border-bottom: solid;
+}
+button {
+  background-color: white;
+  border: none;
+  padding: 10px;
+  border-right: solid;
+  border-bottom: solid;
+}
+h4 {
+  border-right: solid;
+  border-bottom: solid;
+  width: 300px;
+  margin: 30px auto;
+}
+.todoList {
+  margin: 30px auto;
+}
